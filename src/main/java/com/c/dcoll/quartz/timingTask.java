@@ -30,8 +30,6 @@ public class timingTask {
         System.out.println(getUsbDevices());
         System.out.println(getSensors());
         System.out.println(getCpuInfo());
-
-
     }
 
 //    private Map<String,String> getAddress(){

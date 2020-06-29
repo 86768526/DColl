@@ -9,5 +9,4 @@ public class DcollApplication {
     public static void main(String[] args) {
         SpringApplication.run(DcollApplication.class, args);
     }
-
 }
